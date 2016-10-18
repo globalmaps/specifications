@@ -1,0 +1,2 @@
+# specifications
+Global Map Specifications
